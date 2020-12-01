@@ -1,6 +1,7 @@
 {
-  "name": "swagger-combined",
-  "version": "1.5.1",
+  "name": "__deployment__",
+  "private" : true,
+  "version": "0.0.1",
   "description": "Combines Swagger documents",
   "main": "index.js",
   "repository": {
